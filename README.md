@@ -18,4 +18,7 @@ Node and Jest
 The app can be used in companies where it could be necessary to write team's informations. 
 
 # Tests
+![alt text](https://github.com/[xvirix]/[Team-Generator]/blob/[main]/image.jpg?raw=true)
+![alt text](https://github.com/[xvirix]/[Team-Generator]/blob/[main]/image.jpg?raw=true)
 
+# Demo Link
