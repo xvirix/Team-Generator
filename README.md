@@ -9,25 +9,13 @@ This app creates teams through node and puts together individuals' information. 
 # Table of Contents 
 * [Installation](#-Installation)
 * [Usage](#-Usage)
-* [License](#-Installation)
-* [Contributing](#-Contributing)
 * [Tests](#-Tests)
-* [Questions](#-Contact-Information)
   
 # Installation
-node and jest
+Node and Jest
 
 # Usage
 The app can be used in companies where it could be necessary to write team's informations. 
 
-# License 
-
-
-# Contributing 
-
-
 # Tests
 
-
-# Contact Information 
-* Questions? Contact me here: 
